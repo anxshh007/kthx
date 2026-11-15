@@ -1,0 +1,32 @@
+{
+  "name": "@kathix/mod-script",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./manifest": "./src/manifest.ts",
+    "./server": "./src/server.ts",
+    "./ui": "./src/ui.tsx",
+    "./cli": "./src/cli.ts"
+  },
+  "dependencies": {
+    "@kathix/kernel": "workspace:*",
+    "@kathix/store": "workspace:*",
+    "@kathix/models": "workspace:*",
+    "@kathix/prompts": "workspace:*",
+    "@kathix/retrieval": "workspace:*",
+    "@kathix/ui": "workspace:*",
+    "react": "19.3.1",
+    "hono": "4.13.18",
+    "zod": "4.6.7",
+    "commander": "15.1.0",
+    "@codemirror/state": "6.7.6",
+    "@codemirror/view": "6.43.15",
+    "@codemirror/commands": "6.11.1",
+    "docx": "9.15.4",
+    "diff": "9.0.0",
+    "@kathix/platform": "workspace:*"
+  }
+}

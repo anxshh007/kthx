@@ -1,0 +1,29 @@
+{
+  "name": "@kathix/mod-canon",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./manifest": "./src/manifest.ts",
+    "./server": "./src/server.ts",
+    "./ui": "./src/ui.tsx",
+    "./cli": "./src/cli.ts"
+  },
+  "dependencies": {
+    "@kathix/kernel": "workspace:*",
+    "@kathix/store": "workspace:*",
+    "@kathix/models": "workspace:*",
+    "@kathix/prompts": "workspace:*",
+    "@kathix/retrieval": "workspace:*",
+    "@kathix/ui": "workspace:*",
+    "react": "19.3.1",
+    "hono": "4.13.18",
+    "zod": "4.6.7",
+    "commander": "15.1.0",
+    "mammoth": "1.13.0",
+    "unpdf": "2.2.0",
+    "@kathix/platform": "workspace:*"
+  }
+}

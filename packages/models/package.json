@@ -1,0 +1,16 @@
+{
+  "name": "@kathix/models",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@kathix/kernel": "workspace:*",
+    "@kathix/store": "workspace:*",
+    "@anthropic-ai/sdk": "1.8.0",
+    "zod": "4.6.7"
+  }
+}

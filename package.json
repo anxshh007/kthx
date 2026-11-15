@@ -1,0 +1,53 @@
+{
+  "name": "kathix",
+  "version": "0.5.0",
+  "private": true,
+  "description": "Kathix: a production co-pilot stack for solo creators of serialized work.",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@10.34.5",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "pnpm --filter @kathix/web build && pnpm --filter @kathix/web serve",
+    "dev": "pnpm --filter @kathix/web dev",
+    "seed": "tsx apps/cli/src/main.ts seed",
+    "kathix": "tsx apps/cli/src/main.ts",
+    "backgrounds": "tsx scripts/backgrounds.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "lint": "eslint . --max-warnings 0",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "pnpm test:unit && pnpm test:e2e",
+    "test:unit": "vitest run",
+    "test:e2e": "playwright test",
+    "evals": "vitest run --project evals",
+    "evals:real": "tsx packages/prompts/evals/run-real.ts",
+    "check": "pnpm typecheck && pnpm lint && pnpm format:check && pnpm test"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@kathix/kernel": "workspace:*",
+    "@kathix/models": "workspace:*",
+    "@kathix/platform": "workspace:*",
+    "@kathix/prompts": "workspace:*",
+    "@kathix/retrieval": "workspace:*",
+    "@kathix/runtime": "workspace:*",
+    "@kathix/store": "workspace:*",
+    "@playwright/test": "1.65.1",
+    "@types/node": "26.6.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "10.15.0",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "globals": "17.14.0",
+    "prettier": "3.10.1",
+    "sharp": "0.35.5",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.72.2",
+    "vite": "8.3.8",
+    "vitest": "5.1.0"
+  }
+}

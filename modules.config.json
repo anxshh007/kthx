@@ -1,0 +1,14 @@
+{
+  "$comment": "Registry of Studio modules, in navigation order. Adding a module = one package in packages/modules and one line here.",
+  "modules": [
+    "home",
+    "canon",
+    "script",
+    "continuity",
+    "voice",
+    "forge",
+    "showrunner",
+    "ledger",
+    "router"
+  ]
+}

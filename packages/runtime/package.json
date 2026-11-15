@@ -1,0 +1,20 @@
+{
+  "name": "@kathix/runtime",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@kathix/kernel": "workspace:*",
+    "@kathix/store": "workspace:*",
+    "@kathix/models": "workspace:*",
+    "@kathix/prompts": "workspace:*",
+    "@kathix/retrieval": "workspace:*",
+    "@kathix/platform": "workspace:*",
+    "hono": "4.13.18",
+    "commander": "15.1.0"
+  }
+}

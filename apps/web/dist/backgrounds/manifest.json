@@ -1,0 +1,260 @@
+{
+  "slots": {
+    "home": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQBACdASogABIAPu1kqU2ppaQiMAgBMB2JYwC7AB6VzzJCbfXhV5wtZ5QAAP7r/4CLdHhwBsn7gS01pZCakfUTsuoWVRY86Q2WIK3TDr8mY3dkYAA=",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/home-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/home-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/home-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/home-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/home-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/home-3840.webp"
+        }
+      ]
+    },
+    "canon": {
+      "kind": "photo",
+      "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASogABIAPu1gq1AppSOisBgIATAdiWUAzNAJn3QG+tHkysmJ/+7+EgAA/uZfp3GeDBX++CBty17hAQPMpWUu4Lj9CxCZwxf57cYLPvtIjMtjyxFp+HeigEcsujKtvOME1RAxmFjkAAA=",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/canon-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/canon-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/canon-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/canon-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/canon-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/canon-3840.webp"
+        }
+      ]
+    },
+    "continuity": {
+      "kind": "photo",
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQBACdASogABIAPulgo02pJaMiMAwBIB0JZwC2FCBvo3+71NnoCBqKxZgk9GAA/txbcqt9z9q2M1QAz3x/Crq1o8hgwDAfJVnun5m8EK/a2pOxGStjiTc++RHmwBMHbdKGJLIPkAA=",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/continuity-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/continuity-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/continuity-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/continuity-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/continuity-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/continuity-3840.webp"
+        }
+      ]
+    },
+    "voice": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQBACdASogABIAPu1iqE2ppaOiMAgBMB2JZwDO7CHhT88TG80111Nt8oChp1edoAD+7v/nOkEBJGeH3PwuziA+HF3j2FhQh4yzppyRvI9bGJ+mRmAAAA==",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/voice-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/voice-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/voice-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/voice-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/voice-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/voice-3840.webp"
+        }
+      ]
+    },
+    "forge": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwBACdASogABIAPu1srFCppiQiqAqpMB2JZwDKABEd4v7+kz2PvtfLsygA/vDTPXutnPjK0Akq7bq6w7XcauITGoAAAA==",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/forge-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/forge-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/forge-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/forge-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/forge-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/forge-3840.webp"
+        }
+      ]
+    },
+    "showrunner": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASogABIAPu1mqk2ppaQiMAgBMB2JZwDGQBukIQFsgx8wAP7w3cidurbCv0ioRpZIVnCyRr9HDg+cRp/bIfE9weaaAtAAAA==",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/showrunner-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/showrunner-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/showrunner-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/showrunner-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/showrunner-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/showrunner-3840.webp"
+        }
+      ]
+    },
+    "ledger": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAQAwCdASogABIAPu1qr1Appi6iqAqp0B2JaQDImBWcWAAA/vBQvhwDuf4zcdSj0sAAAA==",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/ledger-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/ledger-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/ledger-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/ledger-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/ledger-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/ledger-3840.webp"
+        }
+      ]
+    },
+    "router": {
+      "kind": "procedural",
+      "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAQAwCdASogABIAPu1wsVKppiSiqAgBMB2JaQDL4Ban4gAA/vBRDRFVcpKeDAAA",
+      "avif": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/router-1920.avif"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/router-2560.avif"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/router-3840.avif"
+        }
+      ],
+      "webp": [
+        {
+          "width": 1920,
+          "url": "/backgrounds/router-1920.webp"
+        },
+        {
+          "width": 2560,
+          "url": "/backgrounds/router-2560.webp"
+        },
+        {
+          "width": 3840,
+          "url": "/backgrounds/router-3840.webp"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@kathix/cli",
+  "version": "0.5.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "kathix": "./src/main.ts"
+  },
+  "dependencies": {
+    "@kathix/kernel": "workspace:*",
+    "@kathix/runtime": "workspace:*",
+    "commander": "15.1.0",
+    "@kathix/platform": "workspace:*"
+  }
+}
